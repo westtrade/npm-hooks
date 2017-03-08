@@ -1,0 +1,12 @@
+{
+  "name": "npm-hooks",
+  "version": "1.0.0",
+  "description": "Module allow create hooks to another npm modules, installed in project",
+  "main": "src/NpmHookClass.js",
+  "repository": {
+    "url": "https://github.com/westtrade/npm-hooks.git",
+    "type": "git"
+  },
+  "author": "Poppov Gennadiy <me@westtrade.tk>",
+  "license": "MIT"
+}
